@@ -1,0 +1,30 @@
+@font-face {
+	font-family: fzltcxh;
+	src: url('fzltcxh.ttf');
+}
+
+.container {
+	background-image: url('bg.jpg');
+	background-position: center;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+.team_intro {
+	border-radius: 10px;
+	box-shadow: 0 0 20px #888;
+	width: 700px;
+	height: 400px;
+	margin: 100px auto 0 auto;
+	background-color: white;
+	opacity: 0.7;
+}
+
+.team_name {
+	padding: 30px 100px;
+	text-align: center;
+	font-family: fzltcxh;
+	font-weight: bold;
+	font-size: 40px;
+}
