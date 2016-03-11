@@ -59,3 +59,14 @@ li {
 	width: 100px;
 	height: 100px;
 }
+
+.com_detail {
+	box-shadow: 0 0 20px #888;
+	position: absolute;
+	left: 10px;
+	top: 20px;
+	width: 100px;
+	height: 200px;
+	background: #000;
+	opacity: 0.8;
+}
